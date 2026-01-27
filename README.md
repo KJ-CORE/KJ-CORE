@@ -1,10 +1,41 @@
-# 👋 Hello, I'm Kunal Jha
+# 👋 Hey there, I'm Kunal Jha
 
 <div align="center">
   
-### 💻 Developer | 🚀 Builder | 🎨 Creator
+### 💻 Systems Developer | 🐧 Linux Kernel Enthusiast | ⚡ Low-Level Programming
+
+*Building robust systems, one kernel module at a time*
 
 </div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate systems developer with a deep interest in operating systems, kernel development, and low-level programming. I love getting my hands dirty with QEMU, debugging kernel modules, and understanding how software interacts with hardware at the most fundamental level.
+
+## 🔥 Featured Projects
+
+### 🖥️ Linux Kernel Development with QEMU
+**Exploring the internals of operating systems**
+- Used QEMU (Quick Emulation) to create a virtualized environment for kernel development
+- Gained hands-on experience with kernel internals, system calls, and low-level debugging
+- Implemented and tested custom kernel modules in a safe, isolated environment
+- Deep dive into process scheduling, memory management, and device drivers
+
+### 💡 Fully Functional Operating System
+**Built from the ground up**
+- Successfully developed a complete, working operating system
+- Implemented core OS components: bootloader, kernel, process management, and file system
+- Hands-on experience with assembly language, C programming, and hardware abstraction
+- Understanding of interrupt handling, context switching, and system initialization
+
+### ☀️ Summer Break Project
+**Dedicated learning & implementation**
+- Invested summer break in deep systems programming and kernel development
+- Focused on understanding computer architecture and operating system design
+- Built practical projects to solidify theoretical concepts
+- Continuous learning and experimentation with various low-level technologies
 
 ---
 
@@ -12,17 +43,9 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJ-CORE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJ-CORE&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&icon_color=fb4934&text_color=ebdbb2)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJ-CORE&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
-
-</div>
-
-## 🎯 Contribution Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KJ-CORE&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJ-CORE&theme=gruvbox&hide_border=true&background=1d2021&ring=fabd2f&fire=fb4934&currStreakLabel=fabd2f)
 
 </div>
 
@@ -30,7 +53,7 @@
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-CORE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-CORE&layout=compact&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&text_color=ebdbb2)
 
 </div>
 
@@ -38,65 +61,72 @@
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=KJ-CORE&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=KJ-CORE&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
-## 📈 Contribution Calendar
+## 📈 Contribution Activity
 
 <div align="center">
   
-![Contribution Graph](https://ghchart.rshah.org/F85D7F/YOUR_USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KJ-CORE&theme=gruvbox&hide_border=true&bg_color=1d2021&color=fabd2f&line=fb4934&point=ebdbb2)
 
 </div>
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 💼 Tech Stack
+## 💼 Tech Stack & Skills
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Core Systems Programming
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Operating Systems & Virtualization
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![Kernel](https://img.shields.io/badge/-Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+### Development & Scripting
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Make](https://img.shields.io/badge/-Makefile-427819?style=for-the-badge&logo=cmake&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Others
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GDB](https://img.shields.io/badge/-GDB-3F7CAC?style=for-the-badge&logo=gnu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 </div>
+
+## 🎯 Areas of Interest
+
+- **Operating Systems**: Kernel development, process management, memory management
+- **Low-Level Programming**: System calls, device drivers, interrupt handling
+- **Computer Architecture**: CPU architecture, assembly programming, hardware interfaces
+- **Virtualization**: QEMU, KVM, hypervisor development
+- **Systems Security**: Buffer overflows, kernel exploits, security hardening
+- **Embedded Systems**: Bare-metal programming, real-time systems
+
+## 📚 Currently Learning
+
+- Advanced kernel debugging techniques
+- Device driver development for Linux
+- Real-time operating systems (RTOS)
+- Memory allocator implementations
+- File system internals
 
 ## 📫 Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunaljha0512)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KJ-CORE)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 
 </div>
 
@@ -104,13 +134,13 @@
 
 <div align="center">
   
-### 💭 Random Dev Quote
+### 💭 Kernel Wisdom
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+*"Talk is cheap. Show me the code."* – Linus Torvalds
 
 ### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=KJ-CORE&color=F85D7F&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=KJ-CORE&color=fabd2f&style=for-the-badge)
 
 </div>
 
@@ -118,6 +148,8 @@
 
 <div align="center">
   
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**🔧 "In theory, there is no difference between theory and practice. In practice, there is."**
+
+*Always debugging, always learning* 🐧
 
 </div>
