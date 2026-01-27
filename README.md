@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Kunal Jha
 
 <div align="center">
   
@@ -12,9 +12,9 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJ-CORE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJ-CORE&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KJ-CORE&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-CORE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=KJ-CORE&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -110,7 +110,7 @@
 
 ### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F85D7F&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=KJ-CORE&color=F85D7F&style=for-the-badge)
 
 </div>
 
