@@ -1,244 +1,183 @@
-# 🍫 Hey there, I'm Kunal Jha! おっす！
+# Hi, I'm Kunal Jha 👋
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/71/3a/32/713a3272124cc57ba9e3b9b52de4e4c9.gif" width="200" alt="Shin-chan dancing"/>
+### Systems Developer | Linux Kernel Enthusiast | Low-Level Programming Specialist
 
-### 💻 Systems Developer | 🐧 Linux Kernel Enthusiast | ⚡ Low-Level Programming
-### 🎭 *Action Kamen of Code!* 
+Building robust systems and exploring the depths of operating system internals
 
-*Building robust systems, one kernel module at a time ~ ケツだけ星人じゃないよ！*
-
-<img src="https://media.tenor.com/yZHNXBscPn4AAAAC/shinchan-cute.gif" width="150" alt="Shin-chan cute"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunaljha0512)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kunaljha210@outlook.in)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KJ-CORE)
 
 </div>
 
 ---
 
-## 🎨 About Me ~ 自己紹介
+## About Me
 
-<img align="right" src="https://media.tenor.com/9kq5bUOrE0EAAAAC/shin-chan-crayon-shin-chan.gif" width="200" alt="Shin-chan action"/>
+I'm a passionate systems developer with a deep focus on operating systems, kernel development, and low-level programming. My work centers on understanding how software interacts with hardware at the most fundamental level, with hands-on experience in kernel modules, system calls, and virtualization technologies.
 
-Yo! I'm a passionate systems developer with a deep interest in operating systems, kernel development, and low-level programming - just like how Shin-chan is passionate about Action Kamen! I love getting my hands dirty with QEMU (like Shin-chan with his crayons 🖍️), debugging kernel modules, and understanding how software interacts with hardware at the most fundamental level.
-
-**My Motto:** *"Kernel debugging is my ケツだけ星人 dance!"* 🍑
-
-<br clear="right"/>
+I thrive on tackling complex problems in systems programming, from implementing custom kernel modules to building complete operating systems from scratch. My approach combines theoretical knowledge with practical experimentation to gain deep insights into computer architecture and OS design.
 
 ---
 
-## 🚀 Featured Projects ~ スペシャルプロジェクト
+## Featured Projects
 
-<div align="center">
-<img src="https://i.pinimg.com/originals/9f/4d/c4/9f4dc497e66e04c8090e5e7f8edf3e61.gif" width="300" alt="Shin-chan action kamen"/>
-</div>
+### Linux Kernel Development with QEMU
+**Exploring Operating System Internals**
 
-### 🎪 Linux Kernel Development with QEMU
-**探検中！Exploring the internals of operating systems**
-- Used QEMU (Quick Emulation) to create a virtualized environment for kernel development 🎭
-- Gained hands-on experience with kernel internals, system calls, and low-level debugging
-- Implemented and tested custom kernel modules in a safe, isolated environment
-- Deep dive into process scheduling, memory management, and device drivers
-- *"It's like being Action Kamen in the digital world!"* ⚡
+Utilized QEMU (Quick Emulation) to create a comprehensive virtualized environment for kernel development and testing. This project provided extensive hands-on experience with:
 
-### 🌟 Fully Functional Operating System
-**Built from the ground up ~ ゼロから作った！**
-- Successfully developed a complete, working operating system 🎉
-- Implemented core OS components: bootloader, kernel, process management, and file system
-- Hands-on experience with assembly language, C programming, and hardware abstraction
-- Understanding of interrupt handling, context switching, and system initialization
-- *"Even harder than hiding chocolate from mom!"* 🍫
+- Kernel internals, system calls, and low-level debugging techniques
+- Implementation and testing of custom kernel modules in isolated environments
+- In-depth exploration of process scheduling, memory management, and device drivers
+- Safe experimentation with kernel modifications without risking system stability
 
-### ☀️ Summer Break Project ~ 夏休みの大冒険
-**Dedicated learning & implementation**
-- Invested summer break in deep systems programming and kernel development
-- Focused on understanding computer architecture and operating system design
-- Built practical projects to solidify theoretical concepts
-- Continuous learning and experimentation with various low-level technologies
-- *"Better than my summer homework... don't tell Sensei!"* 📚
+**Technologies:** C, Assembly, QEMU, GDB, Linux Kernel
 
 ---
 
-## 📊 GitHub Stats ~ 統計データ
+### Complete Operating System Implementation
+**Built from First Principles**
 
-<div align="center">
+Successfully designed and developed a fully functional operating system, implementing all core components from the ground up:
 
-<img src="https://i.pinimg.com/originals/87/d3/8f/87d38f99024cb3ad948b91c0a6f9045f.gif" width="400" alt="Shin-chan and friends"/>
+- **Bootloader:** Custom bootloader for system initialization
+- **Kernel:** Core kernel implementing process management and system services
+- **File System:** Custom file system implementation for data management
+- **Hardware Abstraction:** Direct hardware interaction and abstraction layers
 
-### 🎯 Shin-chan's Code Adventure Stats!
+Gained comprehensive understanding of interrupt handling, context switching, memory management, and system initialization procedures.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJ-CORE&show_icons=true&theme=radical&hide_border=true&bg_color=FF6B9D&title_color=FFE66D&icon_color=4ECDC4&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJ-CORE&theme=radical&hide_border=true&background=FF6B9D&ring=FFE66D&fire=4ECDC4&currStreakLabel=FFE66D)
-
-### 🍫 Chocobi... I mean, Languages Used!
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-CORE&layout=compact&theme=radical&hide_border=true&bg_color=FF6B9D&title_color=FFE66D&text_color=FFFFFF)
-
-</div>
+**Technologies:** C, Assembly, Make, Computer Architecture
 
 ---
 
-## 🏆 GitHub Trophies ~ 獲得したトロフィー
+### Summer Research Project
+**Deep Dive into Systems Programming**
 
-<div align="center">
+Dedicated summer break to intensive study and implementation in systems programming and kernel development:
 
-<img src="https://media.tenor.com/K_sHO7ch8UkAAAAC/shin-chan-chocolate.gif" width="200" alt="Shin-chan eating chocobi"/>
-  
-### *Collecting trophies like Action Kamen cards!* 🎴
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=KJ-CORE&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
+- Conducted in-depth research on computer architecture and operating system design
+- Built multiple practical projects to reinforce theoretical concepts
+- Explored various low-level technologies and debugging methodologies
+- Developed strong foundation in systems-level thinking and problem-solving
 
 ---
 
-## 📈 Contribution Activity ~ 活動グラフ
+## Technical Skills
 
-<div align="center">
+### Programming Languages
+- **Systems Programming:** C, C++, Assembly (x86/x64)
+- **Scripting & Automation:** Python, Bash
+- **Application Development:** Java
+- **Database:** MongoDB
 
-### *More active than Shin-chan at kindergarten!* 🏃‍♂️
+### Operating Systems & Tools
+- **Operating Systems:** Linux (Debian, Ubuntu), Custom OS Development
+- **Virtualization:** QEMU, KVM
+- **Development Tools:** Git, GDB, Make, Vim, VS Code
+- **Kernel Development:** Linux Kernel, Custom Kernel Modules
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KJ-CORE&theme=tokyo-night&hide_border=true&bg_color=FF6B9D&color=FFE66D&line=4ECDC4&point=FFFFFF)
-
-</div>
-
----
-
-## 💼 Tech Stack & Skills ~ 技術スタック
-
-<div align="center">
-
-### 🎭 Action Kamen's Arsenal of Tools!
-
-#### Core Systems Programming (コアプログラミング)
-![C](https://img.shields.io/badge/-C-FF6B9D?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-4ECDC4?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-FFE66D?style=for-the-badge&logo=assemblyscript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-FF6B9D?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### Operating Systems & Virtualization (OS と仮想化)
-![Linux](https://img.shields.io/badge/-Linux-4ECDC4?style=for-the-badge&logo=linux&logoColor=white)
-![QEMU](https://img.shields.io/badge/-QEMU-FFE66D?style=for-the-badge&logo=qemu&logoColor=black)
-![Kernel](https://img.shields.io/badge/-Linux_Kernel-FF6B9D?style=for-the-badge&logo=linux&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-4ECDC4?style=for-the-badge&logo=debian&logoColor=white)
-
-#### Development & Scripting (開発とスクリプト)
-![Python](https://img.shields.io/badge/-Python-FFE66D?style=for-the-badge&logo=python&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-FF6B9D?style=for-the-badge&logo=gnubash&logoColor=white)
-![Make](https://img.shields.io/badge/-Makefile-4ECDC4?style=for-the-badge&logo=cmake&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFE66D?style=for-the-badge&logo=mongodb&logoColor=black)
-
-#### Tools & Technologies (ツールと技術)
-![Git](https://img.shields.io/badge/-Git-FF6B9D?style=for-the-badge&logo=git&logoColor=white)
-![GDB](https://img.shields.io/badge/-GDB-4ECDC4?style=for-the-badge&logo=gnu&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-FFE66D?style=for-the-badge&logo=visual-studio-code&logoColor=black)
-![Vim](https://img.shields.io/badge/-Vim-FF6B9D?style=for-the-badge&logo=vim&logoColor=white)
-
-</div>
+### Core Competencies
+- Operating System Design & Implementation
+- Low-Level Programming & System Calls
+- Device Driver Development
+- Memory Management & Process Scheduling
+- Computer Architecture & Assembly Programming
+- Virtualization Technologies
+- Systems Security & Exploit Analysis
+- Embedded Systems & Bare-Metal Programming
 
 ---
 
-## 🎯 Areas of Interest ~ 興味のある分野
+## Areas of Expertise
 
-<div align="center">
+**Operating Systems**
+- Kernel development and architecture
+- Process and thread management
+- Memory management systems
+- File system implementation
 
-<img src="https://media1.tenor.com/m/ob89m8K5fsQAAAAC/shinchan.gif" width="250" alt="Shin-chan cool dance"/>
+**Low-Level Programming**
+- System call implementation
+- Device driver development
+- Interrupt handling and processing
+- Hardware interfacing
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  🎭 "My interests are cooler than Nene-chan's dolls!"  │
-└─────────────────────────────────────────────────────────┘
-```
+**Computer Architecture**
+- CPU architecture and instruction sets
+- Assembly language programming
+- Memory hierarchies and caching
+- I/O systems and bus protocols
 
-</div>
+**Virtualization & Emulation**
+- QEMU configuration and usage
+- KVM hypervisor technology
+- Virtual machine management
+- Performance optimization
 
-- **🖥️ Operating Systems**: Kernel development, process management, memory management
-- **⚡ Low-Level Programming**: System calls, device drivers, interrupt handling
-- **🔧 Computer Architecture**: CPU architecture, assembly programming, hardware interfaces
-- **🎪 Virtualization**: QEMU, KVM, hypervisor development
-- **🛡️ Systems Security**: Buffer overflows, kernel exploits, security hardening
-- **🤖 Embedded Systems**: Bare-metal programming, real-time systems
-
----
-
-## 📚 Currently Learning ~ 勉強中
-
-<div align="center">
-
-<img src="https://media.tenor.com/qn9lxNC4OhwAAAAC/shinchan-study.gif" width="200" alt="Shin-chan studying"/>
-
-### *Like Shin-chan learning new dance moves!* 💃
-
-</div>
-
-- 🎯 Advanced kernel debugging techniques
-- 🚗 Device driver development for Linux
-- ⚡ Real-time operating systems (RTOS)
-- 🧠 Memory allocator implementations
-- 📁 File system internals
-
-*"Learning never stops, just like my appetite for Chocobi!"* 🍫
+**Systems Security**
+- Vulnerability analysis
+- Kernel-level security mechanisms
+- Security hardening techniques
+- Exploit mitigation strategies
 
 ---
 
-## 📫 Connect With Me ~ 連絡先
+## Current Learning Focus
+
+- Advanced kernel debugging techniques and tools
+- Device driver development for Linux
+- Real-time operating systems (RTOS) architecture
+- Memory allocator implementations and optimization
+- File system internals and performance tuning
+- Embedded systems and bare-metal programming
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/de/af/f4/deaff4397df1df104bf39374621783d2.gif" width="300" alt="Shin-chan with friends"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJ-CORE&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
 
-### *Let's be friends like Shin-chan's Kasukabe Defense Group!* 👥
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJ-CORE&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunaljha0512)
-[![GitHub](https://img.shields.io/badge/-GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KJ-CORE)
-[![Email](https://img.shields.io/badge/-Email-FFE66D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:kunaljha210@outlook.in)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-CORE&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
 ---
 
-<div align="center">
+## Professional Interests
 
-### 💭 Kernel Wisdom ~ カーネルの知恵
+I'm particularly interested in collaborating on projects involving:
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  "Talk is cheap. Show me the code."         ┃
-┃  – Linus Torvalds                           ┃
-┃                                              ┃
-┃  "Code is like Chocobi - the more,          ┃
-┃   the better!"                               ┃
-┃  – Shin-chan (probably)                     ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+- Operating system development and kernel programming
+- Low-level systems programming and optimization
+- Virtualization and emulation technologies
+- Embedded systems and IoT devices
+- Systems security and hardening
+- Performance-critical applications
 
-### 📊 Profile Views ~ プロフィール閲覧数
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=KJ-CORE&color=FF6B9D&style=for-the-badge)
+## Connect With Me
 
-</div>
+I'm always interested in discussing systems programming, kernel development, and low-level technologies. Feel free to reach out:
+
+- **LinkedIn:** [kunaljha0512](https://www.linkedin.com/in/kunaljha0512)
+- **Email:** [kunaljha210@outlook.in](mailto:kunaljha210@outlook.in)
+- **GitHub:** [@KJ-CORE](https://github.com/KJ-CORE)
 
 ---
 
 <div align="center">
 
-## 🎨 Shin-chan's Final Words
+### "Talk is cheap. Show me the code." — Linus Torvalds
 
-<img src="https://media.tenor.com/rY8e75bODmkAAAAC/shinchan-crayon-shinchan.gif" width="250" alt="Shin-chan cool pose"/>
-
-**🔧 "In theory, there is no difference between theory and practice. In practice, there is."**
-
-**🎭 "Debugging is my superpower, just like Action Kamen!"**
-
-*Always debugging, always learning, always doing the elephant dance* 🐧🐘
-
-<img src="https://media.tenor.com/WQyo7lR3BzkAAAAC/shin-chan.gif" width="150" alt="Shin-chan butt dance"/>
-
-### おしりだってさわりたい！(But I'd rather touch keyboards!) ⌨️
-
----
-
-<sub>⭐ *If you like my work, give it a star like Shin-chan loves stars... and Chocobi!* 🍫</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=KJ-CORE&color=58a6ff&style=flat)
 
 </div>
